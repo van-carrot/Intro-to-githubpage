@@ -1,4 +1,5 @@
 ---
-title: Van Studio
+layout: page
+title: "Testing"
+permalink: /https://van-carrot.github.io/Intro-to-githubpage/Test
 ---
-Web test
