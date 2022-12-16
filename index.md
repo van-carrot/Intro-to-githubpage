@@ -1,5 +1,4 @@
 ---
-layout: post
-title: "Post testing"
+layout: home
 ---
 Random event happens.
